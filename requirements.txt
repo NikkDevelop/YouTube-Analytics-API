@@ -1,0 +1,6 @@
+schedule
+gspread
+isodate
+oauth2client
+google-api-python-client
+python-dotenv
